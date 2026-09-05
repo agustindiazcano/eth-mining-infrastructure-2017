@@ -4,10 +4,12 @@
 ![Hardware](https://img.shields.io/badge/Hardware-GPU%20Mining-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Historical%20Archive%20(2017)-blue?style=for-the-badge)
 
-### 📌 Overview
+## 📌 Overview
 Project log of a Crypto Mining Rig that I assembled and configured in 2017 for Ethereum (ETH) mining. This period marked the beginning of my investments in crypto (BTC, ETH, XRP), at a time when the financial mainstream was highly skeptical and global public adoption was extremely low (around 1% of the world population used crypto, and even fewer mined it).
 
-### 🕰️ Historical Context (2017/2018)
+---
+
+## 🕰️ Historical Context (2017/2018)
 To put the era into perspective, while this node was being built, these were the stances of major Wall Street leaders regarding blockchain technology:
 
 **1. Jamie Dimon (JPMorgan Chase CEO) – September 2017**
@@ -28,24 +30,23 @@ To put the era into perspective, while this node was being built, these were the
 
 ---
 
-### 🛠️ Hardware & Tech Stack
+## 🛠️ Hardware & Tech Stack
 * **Compute:** MSI AMD Radeon R9 380 4GB (GAMING Edition) GPUs.
-* **Focus:** Hardware optimization, thermal management, and continuous autonomous operation.
 
 ---
 
-### 📸 Hardware Selection & Architecture
+## 📸 Hardware Selection & Architecture
 
 Below is the assembly of the rig, including the wiring, graphic cards, PCIe risers, and the power supply system:
 
-| Node Assembly | Infrastructure Details |
+| Infrastructure | Photos |
 | :---: | :---: |
 | ![Setup 3](./images-infraestructure/gpu-mining-rig-setup-3.jpg) | ![Setup 4](./images-infraestructure/gpu-mining-rig-setup-4.jpg) |
 | ![Setup 5](./images-infraestructure/gpu-mining-rig-setup-5.jpg) | ![Setup 6](./images-infraestructure/gpu-mining-rig-setup-6.jpg) |
 | ![Setup 7](./images-infraestructure/gpu-mining-rig-setup-7.jpg) | ![Setup 8](./images-infraestructure/gpu-mining-rig-setup-8.jpg) |
-| ![Setup 9](./images-infraestructure/gpu-mining-rig-setup-9.jpg) | ![Setup 10](./images-infraestructure/gpu-mining-rig-setup-10.jpg) |
+| ![Setup 9](./images-infraestructure/gpu-mining-rig-setup-9.jpg) | ![Maintenance Log](./images-infraestructure/IMG_20201210_223259.jpg) |
 
 ---
 
-## Author
+## 👤 Author
 **Agustin Diaz-Cano**
