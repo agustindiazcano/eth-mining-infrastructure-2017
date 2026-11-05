@@ -51,4 +51,4 @@ Below is the assembly of the rig, including the wiring, graphic cards, PCIe rise
 ## Autor
 
 Agustin Diaz- Cano
-MS Candidate, Systems Engineering (UTN)
+MS Candidate, Systems Engineering (UTN FRBA, Argentina)
