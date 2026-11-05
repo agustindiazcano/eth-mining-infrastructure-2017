@@ -1,15 +1,15 @@
-# ⚡ Crypto Ethereum Mining Rig (2017)
+# Crypto Ethereum Mining Rig (2017)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-GPU%20Mining-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Historical%20Archive%20(2017)-blue?style=for-the-badge)
 
-## 📌 Overview
+## Overview
 Project log of a Crypto Mining Rig that I assembled and configured in 2017 for Ethereum (ETH) mining. This period marked the beginning of my investments in crypto (BTC, ETH, XRP), at a time when the financial mainstream was highly skeptical and global public adoption was extremely low (around 1% of the world population used crypto, and even fewer mined it).
 
 ---
 
-## 🕰️ Historical Context (2017/2018)
+## Historical Context (2017/2018)
 To put the era into perspective, while this node was being built, these were the stances of major Wall Street leaders regarding blockchain technology:
 
 **1. Jamie Dimon (JPMorgan Chase CEO) – September 2017**
@@ -30,12 +30,12 @@ To put the era into perspective, while this node was being built, these were the
 
 ---
 
-## 🛠️ Hardware & Tech Stack
+## Hardware & Tech Stack
 * **Compute:** MSI AMD Radeon R9 380 4GB (GAMING Edition) GPUs.
 
 ---
 
-## 📸 Hardware Selection & Architecture
+## Hardware Selection & Architecture
 
 Below is the assembly of the rig, including the wiring, graphic cards, PCIe risers, and the power supply system:
 
@@ -48,5 +48,7 @@ Below is the assembly of the rig, including the wiring, graphic cards, PCIe rise
 
 ---
 
-## 👤 Author
-**Agustin Diaz-Cano**
+## Autor
+
+Agustin Diaz- Cano
+MS Candidate, Systems Engineering (UTN)
